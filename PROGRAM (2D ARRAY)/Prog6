@@ -1,0 +1,20 @@
+WAP to enter 5 string and print it in sorting order.
+
+*For Example:*
+
+Om
+Sai
+Ram
+Radha
+Gopal
+
+*Output*
+
+Sorted Array is
+
+Gopal
+Om
+Radha
+Ram
+Sai
+

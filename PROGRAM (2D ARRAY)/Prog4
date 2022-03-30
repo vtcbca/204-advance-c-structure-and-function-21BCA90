@@ -1,0 +1,21 @@
+WAP to enter 5 string. Perform searching opeartion by entering any user choise string and check string is available or not. 
+
+If string is available then print its position in array.
+
+For example:
+
+String array is:
+
+Om
+Sai
+Ram
+Radha
+Kishan
+
+Case 1 :Enter string which you want to search: Sai
+
+          "Sai" is availlable in array at position 2.
+
+Case 2: Enter string Which you want to search: Gopal
+
+           Sorray....String is not available in array.

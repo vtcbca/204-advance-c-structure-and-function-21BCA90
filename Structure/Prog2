@@ -1,0 +1,1 @@
+WAP to create structure Marksheet(sid, sname,M1, M2, M3, total, per). Print 5 student marksheet using the concept of array of structure.

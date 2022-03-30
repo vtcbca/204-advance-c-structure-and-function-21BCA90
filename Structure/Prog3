@@ -1,0 +1,13 @@
+WAP to create structure employee(eid,ename,department,basic). Perform following operation on it using menu driven program.
+
+1. Print Salary Slip with Net Salary
+
+2. Search Based on Employee ID
+
+3. Search Based on Employee Department
+
+4. Sort Record based on Salary
+
+5. Sort Record Based on Employee Name
+
+6. Exit
